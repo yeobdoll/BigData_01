@@ -1,6 +1,9 @@
 # BigData_01
-## Basic Big Data
+## Basic
 1. Arithmetic operation, Variable + Create dataSet + StudyR
 2. Vector, Function
 3. Matrix, Dataframe
 4. Data Input & Output
+5. 조건문과 반복문
+
+## Graph
