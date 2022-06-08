@@ -7,4 +7,5 @@
 5. 조건문과 반복문
 
 ## Graph
-1. 기본 그래프
+1. Basic Graph
+2. Various Graphs
